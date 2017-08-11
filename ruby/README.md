@@ -1,9 +1,3 @@
-### Стандарты кодирования
-Обратите внимание! При выполнении тестовых заданий, пожалуйста, руководствуйтесь стандартами написания кода из приведённых ниже источников!
-
-* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
-* [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
-
 # Первое тестовое задание
 
 Первое тестовое задание заключается в том, чтобы реализовать решение
@@ -41,6 +35,7 @@
 
 ## Особенности реализации.
 
+* При выполнении тестовых заданий руководствуйтесь [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) и [Rails Style Guide](https://github.com/bbatsov/rails-style-guide);
 * Необходимо использовать Ruby версии >= 2.3, Rails >= 5.0;
 * Готовое приложение должно быть развернуто на [Heroku](https://heroku.com);
 * Код приложения должен быть размещён на [GitHub](http://github.com) в репозитории с публичным доступом;
