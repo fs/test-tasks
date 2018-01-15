@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c874f866ca1f446dc8fee9e9dd3815a9
+timeCreated: 1480968625
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DCC - Dreamer
+  fontNames:
+  - DCC - Dreamer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
