@@ -34,8 +34,6 @@
 
 > Sketch-файл: https://invis.io/a/YT5F77CA7GWF8
 
-> Zeplin: https://zpl.io/2vtuSp
-
 
 ***
 
