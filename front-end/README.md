@@ -32,7 +32,7 @@
 
 > Прототип: https://invis.io/U773MCDH8
 
-> Sketch-файл: https://invis.io/a/YT5F77CA7GWF8
+> Sketch-файл: [front-end-tt.sketch](front-end-tt.sketch)
 
 
 ***
