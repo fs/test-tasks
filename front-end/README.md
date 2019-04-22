@@ -34,6 +34,8 @@
 
 > Sketch-файл: [front-end-tt.sketch](front-end-tt.sketch)
 
+> Figma-файл: [front-end-tt.fig](front-end-tt.fig)
+
 
 ***
 
